@@ -1,0 +1,5 @@
+.card {
+    border: 1px dotted gray;
+    cursor: pointer;
+    margin-bottom: 10px;
+}
